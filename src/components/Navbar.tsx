@@ -18,7 +18,9 @@ export default function Navbar() {
     { name: 'Home', href: '#home' },
     { name: 'About Us', href: '#about' },
     { name: 'Games', href: '#games' },
-    { name: 'Contact & Policy', href: '#contact' },
+    { name: 'Reels', href: '#reels' },
+    { name: 'Pricing', href: '#pricing' },
+    { name: 'Contact', href: '#contact' },
   ];
 
   return (
